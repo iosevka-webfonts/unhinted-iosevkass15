@@ -1,4 +1,4 @@
-# Unhinted Iosevkass15 WebFont 30.1.2
+# Unhinted Iosevkass15 WebFont 30.2.0
 
 ## How to use
 
